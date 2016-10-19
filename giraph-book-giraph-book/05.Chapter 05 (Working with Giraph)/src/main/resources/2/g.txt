@@ -1,0 +1,7 @@
+John	0	Peter	0
+Peter	0
+Mark	0	John	0	Anne	0
+Anne	0	Peter	0	Julia	0
+Natalie	0	John	0	Peter	0	Anne	0
+Jack	0	Mark	0	Anne	0
+Julia	0	Mark	0	Natalie	0
